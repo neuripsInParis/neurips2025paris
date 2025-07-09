@@ -5,7 +5,6 @@ Authors of all accepted papers at NeurIPS 2024 are allowed to present their work
 ## Registration
 
 The event is free, but registration is mandatory. Registration will be open shortly after the official NeurIPS decision.
-
 This event is in-person only: we will neither record presentations nor include online options.
 
 ## Venue
@@ -59,14 +58,13 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 ### Organizing committee
 
-<a href="https://raphael-berthier.github.io/"> Raphaël Berthier </a> (INRIA) <br>
-<a href="https://linusbleistein.com/"> Linus Bleistein </a> (INRIA, Université Paris-Saclay) <br>
-[Edwige Cyffers](http://perso.ens-lyon.fr/edwige.cyffers/) (INRIA) <br>
-<a href="https://mathieueven.netlify.app/"> Mathieu Even </a> (INRIA) <br>
+<a href="https://jualberge.github.io/"> Julie Alberge </a> (Inria) <br>
+<a href="http://perso.ens-lyon.fr/edwige.cyffers/"> Edwige Cyffers </a> (ISTA) <br>
+<a href="https://mathieueven.netlify.app/"> Mathieu Even </a> (Inria) <br>
 <a href="https://maximehaddouche.github.io/"> Maxime Haddouche </a> (INRIA) <br>
-<a href="https://pierremarion23.github.io/"> Pierre Marion </a> (EPFL) <br>
+<a href="https://vloison.github.io/"> Virginie Loison </a> (Inria, Inserm) <br>
+<a href="https://pierremarion23.github.io/"> Ambroise Odonnat </a> (Inria) <br>
 <a href="https://maxencenoble.github.io/"> Maxence Noble </a> (Polytechnique) <br>
-<a href="https://loucaspillaudvivien.io/"> Loucas Pillaud-Vivien </a> (Ponts) <br>
 
 ### Advising committee
 
