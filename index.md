@@ -1,4 +1,4 @@
-NeurIPS@Paris 2025 is a 2-day event that takes place at Sorbonne Université on the 25<sup>th</sup> and 26<sup>th</sup> of November. This event provides a local alternative to the <a href="https://nips.cc/">NeurIPS conference</a>. It aims to address some sustainability and inclusivity concerns in machine learning research. All students and researchers are welcome to attend.
+NeurIPS@Paris 2025 is a 2-day event that takes place at Sorbonne Université on the 25<sup>th</sup> and 26<sup>th</sup> of November 2025. This event provides a local alternative to the <a href="https://nips.cc/">NeurIPS conference</a>. It aims to address some sustainability and inclusivity concerns in machine learning research. All students and researchers are welcome to attend.
 
 Authors of all accepted papers at NeurIPS 2025 are allowed to present their work through an oral presentation and/or a poster session. We unfortunately cannot accommodate oral presentations for all accepted papers; a subset of accepted papers will be proposed for an oral presentation, based on scientific quality, thematic coherence, and diversity criteria.
 
