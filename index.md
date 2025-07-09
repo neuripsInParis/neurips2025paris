@@ -1,6 +1,6 @@
 NeurIPS@Paris 2025 is a 2-day event that takes place at Sorbonne Université on the 25<sup>th</sup> and 26<sup>th</sup> of November. This event provides a local alternative to the <a href="https://nips.cc/">NeurIPS conference</a>. It aims to address some sustainability and inclusivity concerns in machine learning research. All students and researchers are welcome to attend.
 
-Authors of all accepted papers at NeurIPS 2024 are allowed to present their work through an oral presentation and/or a poster session. We unfortunately cannot accommodate oral presentations for all accepted papers; a subset of accepted papers will be proposed for an oral presentation, based on scientific quality, thematic coherence, and diversity criteria.
+Authors of all accepted papers at NeurIPS 2025 are allowed to present their work through an oral presentation and/or a poster session. We unfortunately cannot accommodate oral presentations for all accepted papers; a subset of accepted papers will be proposed for an oral presentation, based on scientific quality, thematic coherence, and diversity criteria.
 
 ## Registration
 
@@ -20,7 +20,7 @@ The presentations will be held in amphithéâtre 25. All social events (poster s
 The schedule of this event will be announced in time.
 <!--The event is planned to start at 9am on December 4 and end at 4:30pm on December 5.
 
-It will feature oral presentations and poster sessions of NeurIPS 2024, as well as presentations from Défenseur des droits, Latitudes and WIMLDS.
+It will feature oral presentations and poster sessions of NeurIPS 2025, as well as presentations from Défenseur des droits, Latitudes and WIMLDS.
 
 The schedule is available <a href="docs/assets/Schedule_2024.pdf"> here</a>. Two poster sessions are planned, the detailed planning is available <a href="docs/assets/planning_posters_2024.pdf"> here</a>.-->
 
@@ -29,7 +29,7 @@ Details regarding the presentations will be announced in time.
 <!--The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. Each presentation will last 15 minutes. In the interest of time, questions should be deferred to the poster session. All oral presentations also have a poster presentation in the following poster session.-->
 
 <!--
-#### Day 1 : 04.12.2024
+#### Day 1 : 04.12.2025
 
 | **Time** | **Description** |
 | -----| ----------- |
@@ -38,7 +38,7 @@ Details regarding the presentations will be announced in time.
 | 02:30 PM - 03:45 PM | Reinforcement Learning |
 
 
-#### Day 2 : 05.12.2024
+#### Day 2 : 05.12.2025
 
 | **Time** | **Description** |
 | -----| ----------- |
