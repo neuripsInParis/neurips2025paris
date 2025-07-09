@@ -18,13 +18,6 @@ The presentations will be held in amphithéâtre 25. All social events (poster s
 
 ## Schedule 
 The schedule of this event will be announced in time.
-<!-- 
-The event is planned to start at 9am on December 4 and end at 4:30pm on December 5.
-
-It will feature oral presentations and poster sessions of NeurIPS 2025, as well as presentations from Défenseur des droits, Latitudes and WIMLDS.
-
-The schedule is available <a href="docs/assets/Schedule_2024.pdf"> here</a>. Two poster sessions are planned, the detailed planning is available <a href="docs/assets/planning_posters_2024.pdf"> here</a>.
--->
 
 ### Scientific presentations
 Details regarding the presentations will be announced in time.
