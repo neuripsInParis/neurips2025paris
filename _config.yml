@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: <br> <span style="color:grey"> 4<sup>th</sup> and 5<sup>th</sup> of December <br> Sorbonne Center for Artificial Intelligence (SCAI) </span>
+description: ''
+github:
+  is_user_page: false
+  is_project_page: false
+logo: /docs/assets/logo_neurips_in_paris_NEW.svg
