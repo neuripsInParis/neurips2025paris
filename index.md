@@ -1,12 +1,10 @@
-NeurIPS@Paris 2024 is a 2-day event that takes place at Sorbonne Université on the 4<sup>th</sup> and 5<sup>th</sup> of December. This event provides a local alternative to the <a href="https://nips.cc/">NeurIPS conference</a>. It aims at addressing some sustainability and inclusivity concerns in machine learning research. All students and researchers are welcome to attend.
+NeurIPS@Paris 2025 is a 2-day event that takes place at Sorbonne Université on the 25<sup>th</sup> and 26<sup>th</sup> of November. This event provides a local alternative to the <a href="https://nips.cc/">NeurIPS conference</a>. It aims to address some sustainability and inclusivity concerns in machine learning research. All students and researchers are welcome to attend.
 
-Authors of all accepted papers at NeurIPS 2024 are given the opportunity to present their work, through an oral presentation and/or a poster session. We unfortunately cannot accomodate oral presentations for all accepted papers; a subset of accepted papers will be proposed an oral presentation, based on scientific quality, thematic coherence and diversity criteria.
-
-**New this year:** we offer travel grants. Please let us know when registering if you want to apply for a travel grant. Grants will be given in priority to students and members of underrepresented groups in ML. Please note that we will not fund air travel, for sustainability reasons.
+Authors of all accepted papers at NeurIPS 2024 are allowed to present their work through an oral presentation and/or a poster session. We unfortunately cannot accommodate oral presentations for all accepted papers; a subset of accepted papers will be proposed for an oral presentation, based on scientific quality, thematic coherence, and diversity criteria.
 
 ## Registration
 
-The event is free but registration is mandatory. Registration are now closed.
+The event is free, but registration is mandatory. Registration will be open shortly after the official NeurIPS decision.
 
 This event is in-person only: we will neither record presentations nor include online options.
 
@@ -14,15 +12,13 @@ This event is in-person only: we will neither record presentations nor include o
 
 This event will take place at Campus Jussieu (4 Place Jussieu, Paris 5ème).
 
-To access by metro, go to station Jussieu on the line 10.
+To access by metro, go to Jussieu station on line 10.
 
 The presentations will be held in amphithéâtre 25. All social events (poster sessions, mentor and career sessions, cocktail and lunch) will be held in SCAI and in the Esclangon building, which is located within Jussieu. A map of Jussieu is available <a href="docs/assets/plan_neurips2022v2.jpg"> here</a>.
 
-<!--![map](/docs/assets/plan_neurips2022v2.jpg)-->
-
-
 ## Schedule 
-
+The schedule of this event will be announced in time.
+<!--
 The event is planned to start at 9am on December 4 and end at 4:30pm on December 5.
 
 It will feature oral presentations and poster sessions of NeurIPS 2024, as well as presentations from Défenseur des droits, Latitudes and WIMLDS.
@@ -48,40 +44,15 @@ The presentations are divided into 6 thematic sessions, details are gathered <a 
 | 09:30 AM - 10:30 AM | Ethical and Trustworthy Machine Learning |
 | 11:00 AM - 12:15 PM | Optimisation, ML Methods and Algorithms |
 | 03:30 PM - 04:30 PM | Deep Learning and LLMs |
-
-<!-- 
-A detailled list of papers for each session is available <a href="https://docs.google.com/spreadsheets/d/1P2YXaZvnIpC-IPtCHzFnFlMV5IMj5CZYEmo-ImpG_5A/edit?usp=sharing">here</a>. 
-
-### Day 1 : 04.12.2024
-
-| **Time** | **Place** | **Description** |
-| -----| ----------- |
-| 13:00 - 13:15 | Amphi 25 (Jussieu) |  Introduction Speech |
-| 13:15 - 14:45 | Amphi 25 (Jussieu) | Session 1: Theoretical Deep Learning and Optimization |
-| 14:45 - 15:15 | Amphi 25 (Jussieu) | Coffee Break |
-| 15:15 - 16:45 | Amphi 25 (Jussieu) | Session 2: Theoretical ML and Optimal Transport |
-| 16:45 - 18:00 | SCAI (Jussieu) | Poster Session |
-| 18:00 - 19:00 | SCAI (Jussieu) | Cocktail |
-
-### Day 2 : 05.12.2024
-
-| **Time** | **Place** | **Description** |
-| -----| ----------- |
-| 09:15 - 10:45 | Amphi 25 (Jussieu) | Session 3: Applied ML |
-| 10:45 - 11:15 | Amphi 25 (Jussieu) | Coffee break |
-| 11:15 - 11:30 | Amphi 25 (Jussieu) | WIMLDS Guest Session |
-| 11:30 - 12:45 | Amphi 25 (Jussieu) | Session 4: Bandits, RL and Physics-Informed ML |
-| 12:45 - 14:00 | SCAI (Jussieu) | Lunch (_provided_) |
-| 14:00 - 15:15 | SCAI (Jussieu) | Poster Session |
-| 15:00 - 16:00 | SCAI (Jussieu) | Mentoring | -->
+-->
 
 ## Sustainability ambitions
 
 We aim to organize a local and sustainable alternative to in-person attendance to international ML conferences. To this aim:
 
-- we strongly encourage participants to NeurIPS@Paris to travel to Paris by sustainable means.
-- we offer fully vegeterian catering.
-- we encourage participants to consider as much as possible not flying to the main NeurIPS conference.
+- We strongly encourage participants to NeurIPS@Paris to travel to Paris by sustainable means.
+<!-- - We offer fully vegeterian catering. -->
+- We encourage participants to consider as much as possible not flying to the main NeurIPS conference.
 
 
 ## Committees
@@ -108,13 +79,17 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 ## Sponsors
 
+The sponsors of this event will be announced in time.
+
+<!--
 This event is supported by Apple, Bioptimus, Critéo, Google DeepMind, Owkin, [Probabl](https://probabl.ai).
 
 This event is a part of the [ELLIS Pre-NeurIPS Fest 2024: Celebrate, Connect, Collaborate](https://ellis.eu/news/ellis-pre-neurips-fest-2024-celebrate-connect-collaborate).
 
 <img src="docs/assets/ellis-logo_horizontal_black_2023-PARIS.png" width="60%">
+-->
 
 ## Contact
 
-If you have any question, please contact us at [neuripsinparis@gmail.com](mailto:neuripsinparis@gmail.com).
+If you have any questions, please contact us at [neuripsinparis@gmail.com](mailto:neuripsinparis@gmail.com).
 
