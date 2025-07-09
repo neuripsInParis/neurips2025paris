@@ -63,7 +63,7 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 <a href="https://jualberge.github.io/"> Julie Alberge </a> (Inria) <br>
 <a href="http://perso.ens-lyon.fr/edwige.cyffers/"> Edwige Cyffers </a> (ISTA) <br>
 <a href="https://mathieueven.netlify.app/"> Mathieu Even </a> (Inria) <br>
-<a href="https://maximehaddouche.github.io/"> Maxime Haddouche </a> (INRIA) <br>
+<a href="https://maximehaddouche.github.io/"> Maxime Haddouche </a> (Inria) <br>
 <a href="https://vloison.github.io/"> Virginie Loison </a> (Inria, Inserm) <br>
 <a href="https://pierremarion23.github.io/"> Ambroise Odonnat </a> (Inria) <br>
 <a href="https://maxencenoble.github.io/"> Maxence Noble </a> (Polytechnique) <br>
@@ -71,7 +71,7 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 ### Advising committee
 
 [Chloé-Agathe Azencott](https://cazencott.info/) (Mines Paris-PSL) <br>
-[Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) <br>
+[Francis Bach](https://www.di.ens.fr/~fbach/) (Inria) <br>
 [Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/) (Université Paris-Saclay) <br>
 [Gérard Biau](https://perso.lpsm.paris/~biau/) (Sorbonne Université)<br>
 [Vianney Perchet](https://vianney.ai/) (Criteo, ENSAE) <br>
