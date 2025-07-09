@@ -61,7 +61,7 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 <a href="https://mathieueven.netlify.app/"> Mathieu Even </a> (Inria) <br>
 <a href="https://maximehaddouche.github.io/"> Maxime Haddouche </a> (Inria) <br>
 <a href="https://vloison.github.io/"> Virginie Loison </a> (Inria, Inserm) <br>
-<a href="https://pierremarion23.github.io/"> Ambroise Odonnat </a> (Inria) <br>
+<a href="https://ambroiseodt.github.io/"> Ambroise Odonnat </a> (Inria) <br>
 <a href="https://maxencenoble.github.io/"> Maxence Noble </a> (Polytechnique) <br>
 
 ### Advising committee
