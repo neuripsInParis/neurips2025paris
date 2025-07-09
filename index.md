@@ -5,6 +5,7 @@ Authors of all accepted papers at NeurIPS 2024 are allowed to present their work
 ## Registration
 
 The event is free, but registration is mandatory. Registration will be open shortly after the official NeurIPS decision.
+
 This event is in-person only: we will neither record presentations nor include online options.
 
 ## Venue
