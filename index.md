@@ -3,13 +3,11 @@ NeurIPS@Paris 2025 is a 2-day event that takes place at Sorbonne Université on 
 Authors of all accepted papers at NeurIPS 2025 are allowed to present their work through an oral presentation and/or a poster session. We unfortunately cannot accommodate oral presentations for all accepted papers; a subset of accepted papers will be proposed for an oral presentation, based on scientific quality, thematic coherence, and diversity criteria.
 
 ## Registration
-
 The event is free, but registration is mandatory. Registration will be open shortly after the official NeurIPS decision.
 
 This event is in-person only: we will neither record presentations nor include online options.
 
 ## Venue
-
 This event will take place at Campus Jussieu (4 Place Jussieu, Paris 5ème).
 
 To access by metro, go to Jussieu station on line 10.
@@ -51,7 +49,8 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 <!-- - We offer fully vegeterian catering. -->
 - We encourage participants to consider as much as possible not flying to the main NeurIPS conference.
 
-
+## EurIPS
+Extending the spirit of local and sustainable events, [EurIPS](https://eurips.cc/) proposes an officially endorsed event in Copenhagen between the 2<sup>nd</sup> and 7<sup>th</sup> December 2025, on the same period as the official conference and one week after NeurIPS@Paris. We encourage participants to consider, as much as possible, this ecological alternative.
 ## Committees
 
 ### Organizing committee
