@@ -3,7 +3,7 @@ NeurIPS@Paris 2025 is a 2-day event that takes place at Sorbonne Université on 
 Authors of all accepted papers at NeurIPS 2025 are allowed to present their work through an oral presentation and/or a poster session. We unfortunately cannot accommodate oral presentations for all accepted papers; a subset of accepted papers will be proposed for an oral presentation, based on scientific quality, thematic coherence, and diversity criteria.
 
 ## Registration
-The event is free, but registration is mandatory. Registration will be open shortly after the official NeurIPS decision.
+The event is free, but registration is mandatory. Registration are open at: https://docs.google.com/forms/d/e/1FAIpQLSfdB1_TXrUG5q9SfvxofsBGeaju9YgRv6HEwD7EznbwcDISCg/viewform
 
 This event is in-person only: we will neither record presentations nor include online options.
 
