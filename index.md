@@ -74,15 +74,7 @@ Extending the spirit of local and sustainable events, [EurIPS](https://eurips.cc
 
 ## Sponsors
 
-The sponsors of this event will be announced in time.
-
-<!--
-This event is supported by Apple, Bioptimus, Critéo, Google DeepMind, Owkin, [Probabl](https://probabl.ai).
-
-This event is a part of the [ELLIS Pre-NeurIPS Fest 2024: Celebrate, Connect, Collaborate](https://ellis.eu/news/ellis-pre-neurips-fest-2024-celebrate-connect-collaborate).
-
-<img src="docs/assets/ellis-logo_horizontal_black_2023-PARIS.png" width="60%">
--->
+This year’s event is made possible by the generous financial support of our sponsors Google DeepMind, Bioptimus, Cohere and G-Research.
 
 ## Contact
 
