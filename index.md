@@ -16,7 +16,9 @@ The presentations will be held in amphithéâtre 25. All social events (poster s
 
 ## Schedule 
 The event is planned to start at 8:45am on November 25 and to end at 6:30pm on November 26.
+
 It will feature oral presentations and poster sessions of NeurIPS 2025, as well as two opening keynotes on the 25th and 26th November (details below).
+
 The schedule is available <a href="docs/assets/Schedule_2025.pdf"> here</a>. Two poster sessions are planned, the detailed planning will be available soon.
 
 ### Opening keynotes
