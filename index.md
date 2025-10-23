@@ -15,20 +15,20 @@ To access by metro, go to Jussieu station on line 10.
 The presentations will be held in amphithéâtre 25. All social events (poster sessions, mentor and career sessions, cocktail and lunch) will be held in SCAI and in the Esclangon building, which is located within Jussieu. A map of Jussieu is available <a href="docs/assets/plan_neurips2022v2.jpg"> here</a>.
 
 ## Schedule 
-
 The event is planned to start at 8:45am on November 25 and to end at 6:30pm on November 26.
-
 It will feature oral presentations and poster sessions of NeurIPS 2025, as well as two opening keynotes on the 25th and 26th November (details below).
-
 The schedule is available <a href="docs/assets/Schedule_2025.pdf"> here</a>. Two poster sessions are planned, the detailed planning will be available soon.
 
 ### Opening keynotes
-This year, we have the honour to host [Anne-Laure Ligozat]() and [Gaël Varoquaux](https://gael-varoquaux.info/) for the opening keynotes on the 25th November and 26th November, respectively.
+This year, we have the honour to host [Anne-Laure Ligozat](https://perso.limsi.fr/annlor/) and [Gaël Varoquaux](https://gael-varoquaux.info/) for the opening keynotes on the 25th November and 26th November, respectively.
 
-Details will be announced soon.
+- [Anne-Laure Ligozat](https://perso.limsi.fr/annlor/)'s keynote will be announced soon. She is a Professor of computer science at LISN and ENSIEE. Ligozat's research revolves around the environmental impact of digital technonology and AI in particular.
+She obtained her PhD from Paris-Sud University in computer science under the direction of Mich\`ele Jardino.
+
+- [Gaël Varoquaux](https://gael-varoquaux.info/) will present a keynote on "Unpacking the AI progress". Gaël Varoquaux is a research director working on data science at Inria (French computer science national research) where he leads the Soda team. He is also co-founder and scientific advisor of Probabl. Varoquaux's research covers fundamentals of artificial intelligence, statistical learning, natural language processing, causal inference, as well as applications to health, with a current focus on public health and epidemiology. He also creates technology: he co-founded scikit-learn, one of the reference machine-learning toolboxes, and helped build various central tools for data analysis in Python. Varoquaux has worked at UC Berkeley, McGill, and university of Florence. He did a PhD in quantum physics supervised by Alain Aspect and is a graduate from Ecole Normale Superieure, Paris.
 
 ### Scientific presentations
-The presentations are divided into 6 thematic sessions, details will be announced soon. Each presentation will last 12 minutes. In the interest of time, questions should be deferred to the poster session. Speakers will also be able to present their work in the corresponding poster session.
+The presentations are divided into 6 thematic sessions, details will be announced soon. Each presentation will last 10 minutes with 5 minutes for questions. In the interest of time, additional questions should be deferred to the poster session. Speakers will also be able to present their work in the corresponding poster session.
 
 #### Day 1 : 25.11.2025
 
@@ -48,7 +48,7 @@ The presentations are divided into 6 thematic sessions, details will be announce
 | 02:00 PM - 03:00 PM | Applications of Machine Learning and Statistics |
 
 ## Mentoring
-Participants to NeurIPS in Paris will have the possibility to participate in a mentoring session with senior researchers from academia and industry. The mentoring session will take place at Sorbonne University\'e from 5:30pm to 6:30pm on the 26th November. Details will be announced soon.
+Participants to NeurIPS in Paris will have the possibility to take part in a mentoring session with senior researchers from academia and industry. The mentoring session will be at Sorbonne University\'e from 5:30pm to 6:30pm on the 26th November. Details will be announced soon.
 
 ## Sustainability ambitions
 
