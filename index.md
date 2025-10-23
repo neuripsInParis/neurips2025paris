@@ -85,8 +85,7 @@ Extending the spirit of local and sustainable events, [EurIPS](https://eurips.cc
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Owkin) <br>
 
 ## Sponsors
-
-This year’s event is made possible by the generous financial support of our sponsors [Google DeepMind](https://deepmind.google/), [Bioptimus](https://www.bioptimus.com/), [Cohere](https://cohere.com/) and [G-Research](https://www.gresearch.com/).
+This year's event is supported by [Google DeepMind](https://deepmind.google/), [Bioptimus](https://www.bioptimus.com/), [Cohere](https://cohere.com/) and [G-Research](https://www.gresearch.com/).
 
 ## Contact
 
