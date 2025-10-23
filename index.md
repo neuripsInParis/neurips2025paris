@@ -86,7 +86,7 @@ Extending the spirit of local and sustainable events, [EurIPS](https://eurips.cc
 
 ## Sponsors
 
-This year’s event is made possible by the generous financial support of our sponsors Google DeepMind, Bioptimus, Cohere and G-Research.
+This year’s event is made possible by the generous financial support of our sponsors [Google DeepMind](https://deepmind.google/), [Bioptimus](https://www.bioptimus.com/), [Cohere](https://cohere.com/) and [G-Research](https://www.gresearch.com/).
 
 ## Contact
 
