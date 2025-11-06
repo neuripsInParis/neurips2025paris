@@ -19,7 +19,7 @@ The event is planned to start at 8:45am on November 25 and to end at 6:30pm on N
 
 It will feature oral presentations and poster sessions of NeurIPS 2025, as well as two opening keynotes on the 25th and 26th November (details below).
 
-The schedule is available <a href="docs/assets/Schedule_2025.pdf"> here</a>. Two poster sessions are planned, the detailed planning will be available soon.
+The schedule is available <a href="docs/assets/Schedule_2025.pdf"> here</a>. Two poster sessions are planned, with details available <a href="docs/assets/planning_posters.pdf"> here</a>.
 
 ### Opening keynotes
 This year, we have the honour to host [Anne-Laure Ligozat](https://perso.limsi.fr/annlor/) and [Gaël Varoquaux](https://gael-varoquaux.info/) for the opening keynotes on the 25th November and 26th November, respectively.
@@ -30,7 +30,7 @@ She obtained her PhD from Paris-Sud University in computer science under the dir
 - [Gaël Varoquaux](https://gael-varoquaux.info/) will present a keynote on "Unpacking the AI progress". Gaël Varoquaux is a research director working on data science at Inria (French computer science national research) where he leads the Soda team. He is also co-founder and scientific advisor of Probabl. Varoquaux's research covers fundamentals of artificial intelligence, statistical learning, natural language processing, causal inference, as well as applications to health, with a current focus on public health and epidemiology. He also creates technology: he co-founded scikit-learn, one of the reference machine-learning toolboxes, and helped build various central tools for data analysis in Python. Varoquaux has worked at UC Berkeley, McGill, and university of Florence. He did a PhD in quantum physics supervised by Alain Aspect and is a graduate from Ecole Normale Superieure, Paris.
 
 ### Scientific presentations
-The presentations are divided into 6 thematic sessions, details will be announced soon. Each presentation will last 10 minutes with 5 minutes for questions. In the interest of time, additional questions should be deferred to the poster session. Speakers will also be able to present their work in the corresponding poster session.
+The presentations are divided into 6 thematic sessions, with details available <a href="docs/assets/planning_talks.pdf"> here</a>. Each presentation will last 10 minutes with 5 minutes for questions. In the interest of time, additional questions should be deferred to the poster session. Speakers will also be able to present their work in the corresponding poster session.
 
 #### Day 1 : 25.11.2025
 
