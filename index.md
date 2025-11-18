@@ -49,8 +49,8 @@ The presentations are divided into 6 thematic sessions, with the detailed schedu
 | 11:30 AM - 12:30 PM | Machine Learning Methods and Algorithms|
 | 02:00 PM - 03:00 PM | Applications of Machine Learning and Statistics |
 
-## Mentoring
-Participants to NeurIPS in Paris will have the possibility to take part in a mentoring session with senior researchers from academia and industry. The mentoring session will be at Sorbonne University\'e from 5:30pm to 6:30pm on the 26th November. Details will be announced soon.
+<!-- - ## Mentoring -->
+<!-- - Participants to NeurIPS in Paris will have the possibility to take part in a mentoring session with senior researchers from academia and industry. The mentoring session will be at Sorbonne University\'e from 5:30pm to 6:30pm on the 26th November. Details will be announced soon. -->
 
 ## Sustainability ambitions
 
