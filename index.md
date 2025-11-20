@@ -12,7 +12,7 @@ This event will take place at Campus Jussieu (4 Place Jussieu, Paris 5ème).
 
 To access by metro, go to Jussieu station on line 10.
 
-The presentations will be held in amphithéâtre 25. All social events (poster sessions, mentor and career sessions, cocktail and lunch) will be held in SCAI and in the Esclangon building, which is located within Jussieu. A map of Jussieu is available <a href="docs/assets/plan_neurips2022v2.jpg"> here</a>.
+The presentations will be held in amphithéâtre 25. All social events (poster sessions, mentor and career sessions, cocktail and lunch) will be held in SCAI and in the Esclangon building, which is located within Jussieu. A map of Jussieu is available <a href="docs/assets/plan_neurips2025.jpg"> here</a>.
 
 ## Schedule 
 The event is planned to start at 8:45am on November 25 and to end at 6:30pm on November 26.
